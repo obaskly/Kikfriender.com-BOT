@@ -15,9 +15,6 @@
          >
   </a>
   <a href=""><img src="https://img.shields.io/badge/version-1.0-red.svg?maxAge=2592000&amp;style=flat"></a>
-  <a href="">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
 </p>
 
 <p align="center">
