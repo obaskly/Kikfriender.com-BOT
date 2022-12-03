@@ -10,17 +10,14 @@
 <h4 align="center">A multifunctional BOT that targets Kikfriender website. </h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
+  
     <img src="https://img.shields.io/badge/os-windows-blue.svg?maxAge=2592000&amp;style=flat"
          >
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
+  
+  
+ 
     <img src="https://img.shields.io/badge/version-1.0-red.svg?maxAge=2592000&amp;style=flat">
-  </a>
+  
 </p>
 
 <p align="center">
