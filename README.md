@@ -11,8 +11,8 @@
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
+    <img src="https://img.shields.io/badge/os-windows-blue.svg?maxAge=2592000&amp;style=flat"
+         >
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/bullredeyes@gmail.com">
