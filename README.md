@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200">
+  <img src="https://img.freepik.com/premium-vector/artificial-intelligenceflying-robot-chat-bot-virtual-support-chatter-bot-character-kids_687327-193.jpg" width="200">
   <br>
   Kikfriender.com BOT
   <br>
