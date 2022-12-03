@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-![screenshot](https://i.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.webp)
+<a href=""><img src="https://i.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.webp"></a>
 </p>
 
 ## Key Features
