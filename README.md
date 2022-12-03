@@ -29,23 +29,20 @@
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* KikFriender Booter
+  - Boost likes
+  - Boost Hotness points
+  - Provide positive feedback
+  - Boost Pictures likes & provide positive feedback (max pictures is four)
+* KikFriender Faker
+  - Flag a specific user profil as fake
+  - Provide negative feedback
+* Kik username checker
+  - Check a given wordlist from correct kik usernames and store them in a new text file
+* Fast and reliable
+* [See kikfriender booter in action](https://khan.github.io/KaTeX/)
+* [See kikfriender faker in action](https://khan.github.io/KaTeX/)
+* [See kik username checker in action](https://khan.github.io/KaTeX/)
 
 ## How To Use
 
