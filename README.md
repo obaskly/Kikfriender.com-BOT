@@ -26,7 +26,9 @@
   <a href="#Copyright">Copyright</a>
 </p>
 
+<p align="center">
 ![screenshot](https://i.giphy.com/media/HdjEnj3U6b6hGzcRsW/giphy.webp)
+</p>
 
 ## Key Features
 
