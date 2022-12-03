@@ -23,6 +23,7 @@
   <a href="#download">Download</a> •
   <a href="#Requirements">Requirements</a> •
   <a href="#Pricing">Pricing</a> •
+  <a href="#Screenshots">Screenshots</a> •
   <a href="#Copyright">Copyright</a>
 </p>
 
@@ -59,6 +60,7 @@ You will receive a zip file containing the files. Unzip it and run the program "
 
 You can contact the developer on 
 - Discord: Joker0#9584
+- Telegram: @Anon040
 
 ## Requirements
 
@@ -70,6 +72,12 @@ You can contact the developer on
 * Payments methods accepted:
   - Bitcoin
   - Paypal 
+
+## Screenshots
+![screenshot](https://i.imgur.com/xJwIOvL_d.webp)
+![screenshot](https://i.imgur.com/2RF8UTa_d.webp)
+![screenshot](https://i.imgur.com/ETm02DH_d.webp)
+![screenshot](https://i.imgur.com/tXsJ26R_d.webp)
 
 ## Copyright
 
