@@ -27,9 +27,8 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
-  <a href="#Copyright">Copyright</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="#Requirements">Requirements</a> •
+  <a href="#Copyright">Copyright</a>
 </p>
 
 ![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
@@ -67,9 +66,9 @@ You will receive a zip file containing the files. Unzip it and run the program "
 You can contact the developer on 
 Discord: Joker0#9584
 
-## Emailware
+## Requirements
 
-Markdownify is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this app or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
+* Google Chrome installed on the target machine
 
 ## Copyright
 
