@@ -56,7 +56,7 @@ You will receive a zip file containing the files. Unzip it and run the program "
 ## Download
 
 You can contact the developer on 
-Discord: Joker0#9584
+- Discord: Joker0#9584
 
 ## Requirements
 
