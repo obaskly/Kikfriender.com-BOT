@@ -22,6 +22,7 @@
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#Requirements">Requirements</a> •
+  <a href="#Pricing">Pricing</a> •
   <a href="#Copyright">Copyright</a>
 </p>
 
@@ -40,9 +41,9 @@
 * Kik username checker
   - Check a given wordlist from correct kik usernames and store them in a new text file
 * Fast and reliable
-* [See kikfriender booter in action](https://khan.github.io/KaTeX/)
-* [See kikfriender faker in action](https://khan.github.io/KaTeX/)
-* [See kik username checker in action](https://khan.github.io/KaTeX/)
+* [See kikfriender booter in action](https://www.youtube.com/watch?v=TvWkYAOK0fg)
+* [See kikfriender faker in action](https://www.youtube.com/watch?v=ws_gCHewUzI)
+* [See kik username checker in action](https://www.youtube.com/watch?v=862TdsZzgCA)
 
 ## How To Use
 
@@ -60,6 +61,13 @@ Discord: Joker0#9584
 ## Requirements
 
 * Google Chrome installed on the target machine
+
+## Pricing
+
+* The BOT is for 50$.
+* Payments methods accepted:
+  - Bitcoin
+  - Paypal 
 
 ## Copyright
 
