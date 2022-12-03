@@ -74,10 +74,10 @@ You can contact the developer on
   - Paypal 
 
 ## Screenshots
-![screenshot](https://i.imgur.com/xJwIOvL_d.webp)
-![screenshot](https://i.imgur.com/2RF8UTa_d.webp)
-![screenshot](https://i.imgur.com/ETm02DH_d.webp)
-![screenshot](https://i.imgur.com/tXsJ26R_d.webp)
+![screenshot](https://raw.githubusercontent.com/obaskly/Kikfriender.com-BOT/main/screenshots/kikfriender_api.JPG)
+![screenshot](https://raw.githubusercontent.com/obaskly/Kikfriender.com-BOT/main/screenshots/faker_bot.JPG)
+![screenshot](https://raw.githubusercontent.com/obaskly/Kikfriender.com-BOT/main/screenshots/username_bot.JPG)
+![screenshot](https://raw.githubusercontent.com/obaskly/Kikfriender.com-BOT/main/screenshots/check.JPG)
 
 ## Copyright
 
