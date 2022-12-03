@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of .</h4>
+<h4 align="center">A multifunctional BOT that targets [Kikfriender](https://kikfriender.com/) website </h4>
 
 <p align="center">
   <a href="https://badge.fury.io/js/electron-markdownify">
