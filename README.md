@@ -23,7 +23,6 @@
   <a href="#download">Download</a> •
   <a href="#Requirements">Requirements</a> •
   <a href="#Pricing">Pricing</a> •
-  <a href="#Screenshots">Screenshots</a> •
   <a href="#Copyright">Copyright</a>
 </p>
 
@@ -72,12 +71,6 @@ You can contact the developer on
 * Payments methods accepted:
   - Bitcoin
   - Paypal 
-
-## Screenshots
-![screenshot](https://raw.githubusercontent.com/obaskly/Kikfriender.com-BOT/main/screenshots/kikfriender_api.JPG)
-![screenshot](https://raw.githubusercontent.com/obaskly/Kikfriender.com-BOT/main/screenshots/faker_bot.JPG)
-![screenshot](https://raw.githubusercontent.com/obaskly/Kikfriender.com-BOT/main/screenshots/username_bot.JPG)
-![screenshot](https://raw.githubusercontent.com/obaskly/Kikfriender.com-BOT/main/screenshots/check.JPG)
 
 ## Copyright
 
